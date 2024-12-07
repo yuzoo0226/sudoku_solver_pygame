@@ -5,7 +5,7 @@
 ## How to clone
 
 ```bash
-git clone 
+git clone https://github.com/yuzoo0226/sudoku.git
 ```
 
 ## Environment Settings
